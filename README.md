@@ -1,6 +1,5 @@
-## Hi 👋, I'm Harshvardhan Shah 
-<h2><br><br>🎓An Ungergraduate Engineering Student at IIT(BHU)Varanasi <br>🌐 Web Development  | 📊 Data Science & Machine Learning Enthusiast<br><br></h2>
-## 🚀 About Me
+<h1>Hi 👋, I'm Harshvardhan Shah</h1><h2><br><br>🎓An Ungergraduate Engineering Student at IIT(BHU)Varanasi <br>🌐 Web Development  | 📊 Data Science & Machine Learning Enthusiast<br><br></h2>
+🚀 About Me
 <br>I am a **motivated engineering student** with hands-on experience in **web development** and newbie in **data science, machine learning.  <br>I enjoy building **end-to-end applications** — from data preprocessing and ML modeling to backend APIs and responsive web interfaces.<br>Currently aquiring knowledge in **Deep learning** and **neurals networks** and eager to learn new technolgy<br><br><br><br>
 
 
