@@ -1,6 +1,6 @@
-## Hi 👋, I'm Harsh Shah <br><br>🎓An Ungergraduate Engineering Student<br>📊 Data Science & Machine Learning Enthusiast<br>
+## Hi 👋, I'm Harsh Shah <br><br>🎓An Ungergraduate Engineering Student<br>📊 Machine Learning & Deep Learning Enthusiast<br>
 ### 🚀 About Me
-I am a **Mining Engineering student** at **IIT(BHU)Varanasi** with experience in **web development** , **machine learning** and **deep learning**.  <br>I enjoy building **end-to-end applications** — from data preprocessing and ML modeling to backend APIs and responsive web interfaces.<br>Currently aquiring knowledge in **Deep learning** and **neurals networks** and eager to learn new technolgy<br><br>
+I am a **Mining Engineering student** at **IIT(BHU)Varanasi** with experience in  **machine learning** , **deep learning** and **web development**.  <br>I enjoy building **end-to-end applications** — from data preprocessing and ML modeling to backend APIs and responsive web interfaces.<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshshah_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshvardhan-shah-6230a2318) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/enkiy-yy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahharsh4653@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() 
 
 # 💻 Tech Stack:
