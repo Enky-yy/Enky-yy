@@ -20,5 +20,5 @@ I am a **Engineering student** at **IIT(BHU)Varanasi** with experience in  **mac
 <p align="center">
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Enky-yy&theme=dark&layout=compact&border_color=white&langs_count=6">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Enky-yy&color=0E9C47&style=for-the-badge">
+<!-- <p align="center">
+<img src="https://komarev.com/ghpvc/?username=Enky-yy&color=0E9C47&style=for-the-badge"> -->
