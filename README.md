@@ -9,8 +9,8 @@ I am a **Engineering student** at **IIT(BHU)Varanasi** with experience in  **mac
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 # 📊 GitHub Stats:
 <br/>
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Enky-yy&theme=dark&hide_border=false">
 
-![](https://nirzak-streak-stats.vercel.app/?user=Enky-yy&theme=dark&hide_border=false)
-
----
-[![](https://visitcount.itsvg.in/api?id=Enky.yy&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Enky-yy&theme=dark&layout=compact&border_color=white&langs_count=6">
