@@ -19,10 +19,10 @@ I am a **Engineering student** at **IIT(BHU)Varanasi** with experience in  **mac
 # 📊 GitHub Stats:
 <br/>
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Enky-yy&theme=dark&hide_border=false">
+<img src="https://streak-stats.demolab.com?user=Enky-yy&theme=tokyonight&hide_border=true&border_radius=5">
 
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Enky-yy&theme=dark&layout=compact&border_color=white&langs_count=6">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Enky-yy&theme=tokyonight&layout=compact&border_color=white&langs_count=6">
 
 <!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Enky-yy&color=0E9C47&style=for-the-badge"> -->
