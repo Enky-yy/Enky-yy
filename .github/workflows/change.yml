@@ -34,7 +34,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Update README with current date
         run: |
-          DATE=$(date +%d%m%Y)   # format = DDMMYYYY
+          DATE=$(TZ='Asia/Kolkata' date +%d%m%Y)   # format = DDMMYYYY
           sed -i "s/num=[0-9]*/num=$DATE/" README.md
 
 
