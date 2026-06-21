@@ -17,9 +17,18 @@ I am a **Engineering student** at **IIT(BHU)Varanasi** with experience in  **mac
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%23.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Tensorflow](https://img.shields.io/badge/tensorflow-%23F7931E.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![keras](https://img.shields.io/badge/keras-%2300599C.svg?style=for-the-badge&logo=keras&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/fastapi-%2300599C.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 # 📊 GitHub Stats:
-<br/>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Enky-yy&theme=tokyonight&hide_border=true&border_radius=5">
+
+<!-- ## 🐍 Contribution Snake -->
+
+<div align="center">
+  <!-- Dynamic Snake (Time-based Theme) -->
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Enky-yy/Enky-yy/output/github-snake.svg">
+</div>
+
+<div align="center">
+
 
 <!-- <p align="center">
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Enky-yy&theme=tokyonight&layout=compact&hide_border=true&langs_count=6&card_width=495&card_height=195"> -->
