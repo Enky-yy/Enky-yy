@@ -22,14 +22,13 @@ jobs:
          
           echo "its time in india. using Dark only"
           echo "palette=github-dark" >> $GITHUB_OUTPUT 
-          fi
 
       - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
           github_user_name: Enky-yy
           outputs: |
-            dist/github-snake.svg?palette=github-dark
+            dist/github-snake.svg?palette=${{steps.theme.outputs.palette}}
             dist/ocean.gif?color_snake=orange&color_dots=#ff6a00,#ffd60a,#ffaa00,#ff8800,#ffffff
 
 
