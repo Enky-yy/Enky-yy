@@ -19,13 +19,18 @@ jobs:
         run: |
           HOUR=$(date -u -d '+5 hours 30 minutes' +%H)
           echo "Current hour in IST: $HOUR"
+
           
-          if [ "$HOUR" -ge 6 ] && [ "$HOUR" -lt 18 ]; then
-            echo "It's Day time in India. Using Light theme."
-            echo "palette=github-dark" >> $GITHUB_OUTPUT 
-          else
-            echo "It's Night time in India. Using Dark theme."
-            echo "palette=github-dark" >> $GITHUB_OUTPUT 
+          
+          # if [ "$HOUR" -ge 6 ] && [ "$HOUR" -lt 18 ]; then
+          #   echo "It's Day time in India. Using Light theme."
+          #   echo "palette=github-dark" >> $GITHUB_OUTPUT 
+          # else
+          #   echo "It's Night time in India. Using Dark theme."
+          #   echo "palette=github-dark" >> $GITHUB_OUTPUT 
+
+          echo "its time in india. using Dark only"
+          echo "palette=github.dark" >> $GITHUB_OUTPUT
           fi
 
       - name: Generate Snake Game
@@ -33,7 +38,7 @@ jobs:
         with:
           github_user_name: Enky-yy
           outputs: |
-            dist/github-snake.svg?palette=${{ steps.theme.outputs.palette }}
+            dist/github-snake.svg?palette=${{ steps.theme.outputs.palette  }}
             dist/ocean.gif?color_snake=orange&color_dots=#ff6a00,#ffd60a,#ffaa00,#ff8800,#ffffff
 
 
