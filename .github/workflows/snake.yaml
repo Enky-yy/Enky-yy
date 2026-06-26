@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "30 0 * * *"
-    - cron: "30 12 * * *"
+    - cron: "30 18 * * *"
+    - cron: "30 6 * * *"
   workflow_dispatch:      
     branches:
-      - main
+        - main
 
 jobs:
   build:
@@ -19,18 +19,9 @@ jobs:
         run: |
           HOUR=$(date -u -d '+5 hours 30 minutes' +%H)
           echo "Current hour in IST: $HOUR"
-
-          
-          
-          # if [ "$HOUR" -ge 6 ] && [ "$HOUR" -lt 18 ]; then
-          #   echo "It's Day time in India. Using Light theme."
-          #   echo "palette=github-dark" >> $GITHUB_OUTPUT 
-          # else
-          #   echo "It's Night time in India. Using Dark theme."
-          #   echo "palette=github-dark" >> $GITHUB_OUTPUT 
-
+         
           echo "its time in india. using Dark only"
-          echo "palette=github.dark" >> $GITHUB_OUTPUT
+          echo "palette=github-dark" >> $GITHUB_OUTPUT 
           fi
 
       - name: Generate Snake Game
