@@ -22,7 +22,7 @@ jobs:
           
           if [ "$HOUR" -ge 6 ] && [ "$HOUR" -lt 18 ]; then
             echo "It's Day time in India. Using Light theme."
-            echo "palette=github-light" >> $GITHUB_OUTPUT 
+            echo "palette=github-dark" >> $GITHUB_OUTPUT 
           else
             echo "It's Night time in India. Using Dark theme."
             echo "palette=github-dark" >> $GITHUB_OUTPUT 
