@@ -2,7 +2,9 @@
 <img src ="https://count.getloli.com/@Enky?name=Enky&theme=booru-vp&padding=8&offset=10&align=top&scale=1&pixelated=1&darkmode=auto&num=08082026">
 <br>
 
-## Hi 👋,I'm Harsh Shah <br><br>📊 Ai/ML Enthusiast<br>
+```
+Hi 👋,I'm Harsh Shah | 📊 Ai/ML Enthusiast
+```
 <p align=center>
 <img src ="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 
