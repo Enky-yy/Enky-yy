@@ -1,11 +1,46 @@
-<p align=center>
-<img src ="https://count.getloli.com/@Enky?name=Enky&theme=booru-vp&padding=8&offset=10&align=top&scale=1&pixelated=1&darkmode=auto&num=30082026">
-<br>
+<h1 align=center>👋 Hello!!!</h1>
+<p align="center">
+  <img src ="https://count.getloli.com/@Enky?name=Enky&theme=booru-vp&padding=8&offset=10&align=top&scale=1&pixelated=1&darkmode=auto&num=30082026">
+</p>
 
+---
+## ⚡ `Who am i`
+```json
+  "Name" : "Harsh Shah",
+  "About" : "Pre-final year undergraduate at IIT (BHU) Varansi",
+  "Languages" : [ "Python", "C++", "JavaScript", "TypeScript" ],
+  "Focus" : "Ai/ML integrated Software Development",
+  "Status" : error-404
 ```
-Hi 👋,I'm Harsh Shah | 📊 Ai/ML Enthusiast
+---
+## 🛠️ `Tools`
+<div align=center>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,c,nextjs,nodejs,git&theme=light" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi,flask,docker&theme=light" />
+</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=arch,postman,redis,vscode,pycharm&theme=light" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Enky-yy/Enky-yy/output/github-snake.svg">
+</div>
+
+---
+
+```bash
+> Happiness can be found, even in the darkest of times, if one only remembers to turn on the light ~ Albus Dumbledore
 ```
-<p align=center>
+
+
+
+<!--<p align=center>
 <img src ="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 
 
@@ -18,12 +53,7 @@ Hi 👋,I'm Harsh Shah | 📊 Ai/ML Enthusiast
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Enky-yy&theme=tokyonight&hide_border=true&border_radius=5">
 
-<!-- ## 🐍 Contribution Snake -->
 
-<div align="center">
-  <!-- Dynamic Snake (Time-based Theme) -->
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Enky-yy/Enky-yy/output/github-snake.svg">
-</div>
 
 <div align="center">
 
