@@ -21,7 +21,7 @@ jobs:
           echo "Current hour in IST: $HOUR"
          
           echo "its time in india. using Dark only"
-          echo "palette=github-dark" >> $GITHUB_OUTPUT 
+          echo "palette=github-light" >> $GITHUB_OUTPUT 
 
       - name: Generate Snake Game
         uses: Platane/snk@v3
