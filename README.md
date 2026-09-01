@@ -1,6 +1,6 @@
 <h1 align=center>👋 Hello!!!</h1>
 <p align="center">
-  <img src ="https://count.getloli.com/@Enky?name=Enky&theme=booru-vp&padding=8&offset=10&align=top&scale=1&pixelated=1&darkmode=auto&num=01092026">
+  <img src ="https://count.getloli.com/@Enky?name=Enky&theme=booru-vp&padding=8&offset=10&align=top&scale=1&pixelated=1&darkmode=auto&num=02092026">
 </p>
 
 ---
