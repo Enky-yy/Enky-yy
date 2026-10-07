@@ -1,1 +1,1 @@
-<img width="426" height="310" alt="loading-progress-bar-black-screen" src="https://github.com/user-attachments/assets/2ce91476-0cf4-4022-898c-b623420f3bbe" />
+<img width="900" height="400" alt="google-search" src="https://github.com/user-attachments/assets/828dc82f-7998-47c1-a3bd-eda1416d4572" />
